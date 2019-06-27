@@ -1,5 +1,5 @@
 # JmsApp_embedded
-App using a simple API with embedded ActiveMQ to deliver messages to topic subscribers.
+App using a simple API with embedded ActiveMQ. Delivers messages to topic subscribers.
 
 ## To run:
   - `mvn clean install`
